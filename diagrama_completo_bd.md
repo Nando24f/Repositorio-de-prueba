@@ -1,6 +1,3 @@
-# Diagrama Extendido de Todas las Tablas (UML - ER)
-
-Este diagrama representa absolutamente todas las tablas listadas en `schema_dump.json`. Aquellas que no tienen conexiones tan explícitas (como los catálogos o tesorería) se integraron al resto de la estructura utilizando la lógica de negocio o campos coincidentes descritos.
 
 ```mermaid
 erDiagram
